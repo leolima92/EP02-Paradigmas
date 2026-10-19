@@ -1,0 +1,21 @@
+# Clojure
+.cpcache/
+.clj-kondo/
+.lsp/
+.nrepl-port
+.rebel_readline_history
+
+# Java
+*.class
+*.jar
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Testes auxiliares locais
+/teste_*.clj
+
+# CSV adicional usado nos testes
+/dados/produtos_teste.csv
